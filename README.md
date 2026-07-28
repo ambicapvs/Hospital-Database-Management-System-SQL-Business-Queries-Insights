@@ -47,7 +47,7 @@ Key takeaways from the project are as follows:
 2. Almost 90% of patients are located in the main building. Based on this, room allocation can be planned to determine whether rooms are being assigned effectively to eliminate overcrowding or underutilization. Knowing this helps optimize resources efficiently.
 3. Each doctor has 1 patient, meaning the workload is equally distributed. This provides insight into the workload per doctor and can inform hiring decisions accordingly.
 4. The Cardiology department has more patients compared to other departments. Knowing the patient count per department allows funding to be adjusted accordingly.
-- Hypertension and diabetes are the top 2 most common conditions. Knowing which diseases are treated most frequently allows for better resource allocation, including medications, equipment, and supplies.
-- A maximum of 2 visitors have visited each patient. Managing visiting times effectively can reduce overcrowding.
-- 3 patients have both their doctor and nurse in the same department, which is beneficial for recovery and helps reduce readmission rates.
-- Currently, there are no patients without assigned rooms, which reflects good management by the administration.
+5. Hypertension and diabetes are the top 2 most common conditions. Knowing which diseases are treated most frequently allows for better resource allocation, including medications, equipment, and supplies.
+6. A maximum of 2 visitors have visited each patient. Managing visiting times effectively can reduce overcrowding.
+7. 3 patients have both their doctor and nurse in the same department, which is beneficial for recovery and helps reduce readmission rates.
+8. Currently, there are no patients without assigned rooms, which reflects good management by the administration.
