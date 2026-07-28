@@ -43,10 +43,10 @@ The database consists of the following tables:
   
 # Executive summary/Business Insights
 Key takeaways from the project are as follows:
-- Around 60% of patients are insured, which means it is important to follow up on the remaining 40% who are paying out of pocket.
-- Almost 90% of patients are located in the main building. Based on this, room allocation can be planned to determine whether rooms are being assigned effectively to eliminate overcrowding or underutilization. Knowing this helps optimize resources efficiently.
-- Each doctor has 1 patient, meaning the workload is equally distributed. This provides insight into the workload per doctor and can inform hiring decisions accordingly.
-- The Cardiology department has more patients compared to other departments. Knowing the patient count per department allows funding to be adjusted accordingly.
+1. Around 60% of patients are insured, which means it is important to follow up on the remaining 40% who are paying out of pocket.
+2. Almost 90% of patients are located in the main building. Based on this, room allocation can be planned to determine whether rooms are being assigned effectively to eliminate overcrowding or underutilization. Knowing this helps optimize resources efficiently.
+3. Each doctor has 1 patient, meaning the workload is equally distributed. This provides insight into the workload per doctor and can inform hiring decisions accordingly.
+4. The Cardiology department has more patients compared to other departments. Knowing the patient count per department allows funding to be adjusted accordingly.
 - Hypertension and diabetes are the top 2 most common conditions. Knowing which diseases are treated most frequently allows for better resource allocation, including medications, equipment, and supplies.
 - A maximum of 2 visitors have visited each patient. Managing visiting times effectively can reduce overcrowding.
 - 3 patients have both their doctor and nurse in the same department, which is beneficial for recovery and helps reduce readmission rates.
