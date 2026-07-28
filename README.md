@@ -29,7 +29,7 @@ The database consists of the following tables:
 
 -The relations between the tables as shown in the ERD diagram 
 
-![Screenshot](./images/screenshot.png)
+![Screenshot](./ERD.png)
 # Business Questions Answered
 
 1. Which patients have insurance and what are their assigned doctors?% of patients with insurance?
